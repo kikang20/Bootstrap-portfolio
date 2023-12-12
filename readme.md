@@ -14,7 +14,10 @@ This is a dark-light contrast website for a portfolio. It is related to being a 
 - Lightbox modals for projects
 - Progress bar stats
 - Font awesome icons
+- 
+##Live Server
 
+- https://bootstrapportofolio.netlify.app
 ## Usage
 
 This website is built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). It uses [Font Awesome](https://fontawesome.com/) for icons.
